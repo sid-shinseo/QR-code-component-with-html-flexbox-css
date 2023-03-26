@@ -31,6 +31,8 @@ After the html, I had a little trouble because I couldn't center my main block, 
 So I started by putting the rest in place and I came back to this problem after I did my best to recreate this design. 
 In the end the only way I found to center the main block is to use margins at the top and bottom. 
 
+--I added some shadow that was not requested because I think it looks good. 
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -76,7 +78,8 @@ body {
 
 ### Continued development
 
-I would like to make an automatic qr-code generator. But I can't do it now. 
+I would like to make an automatic qr-code generator. But I can't do it now.
+I will come back on this project to make the modifications I want when I have the necessary skills, if I don't forget it 😭.
 
 ================================================================================================
 
